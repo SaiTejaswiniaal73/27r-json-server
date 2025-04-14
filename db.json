@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Bob here name not change"
+    },
+    {
+      "id": 3,
+      "name": "teju",
+      "email": "charlie@example.com"
+    },
+    {
+      "id": 4,
+      "name": "tejaswini",
+      "email": "two@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "price": 39.99
+    },
+    {
+      "id": 3,
+      "name": "Sneakers",
+      "price": 59.99
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId": 2
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "productId": 3
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "productId": 1
+    }
+  ]
+}
